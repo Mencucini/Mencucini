@@ -1,5 +1,5 @@
 
-[![SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+me+chamo+Matheus+Leandro.;Tenho+28+anos;+Boas+vindas+ao+meu+perfil!)](https://git.io/typing-svg)
+[![SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+me+chamo+Matheus+Leandro.;Ω, ∆, ∞, ∑, π, ≠, ≈, √, ∫, ≡, ⊥, ∠.;+Boas+vindas+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ![Matheus Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Mencucini&show_icons=true&theme=dracula&count_private=true)
 
